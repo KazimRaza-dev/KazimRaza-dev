@@ -1,10 +1,9 @@
 # Kazim Raza🧑‍💻
 
-<img src="https://drive.google.com/file/d/1lR2upFe-NKSDjliqR6i6PThIESsoWnwE/view?usp=share_link" alt="background" title="background" />
+<img src="https://drive.google.com/file/d/1OhqJ8kHHI14nhmt8oMjul9NxmhvfF_b0/view?usp=share_link" alt="background" title="background" />
 
 ## About me
-Hi👋 I am Kazam Raza, a full-stack software engineer having 2 years of experience in software development along with hands-on experience in Node JS, ReactJS, GIT & Github, typescript, Nest JS, Python, C++, and a solid grip on Data Structures, Algorithms, and DBMS. Plus, I am an Amazon Web Services(AWS) Certified Cloud Practitioner.
-I'm passionate about learning the latest and greatest technologies whether that's the frontend or backend. I always want to learn new things and expand my domain of expertise and knowledge. I am an engineer who loves to solve problems and use the best tool for the problem.
+Hi👋 I am Kazam Raza, a full-stack software engineer having 2 years of experience in software development having solid grip on Data Structures, Algorithms, and DBMS. Plus, I am an Amazon Web Services(AWS) Certified Cloud Practitioner. I always want to learn new things and expand my domain of expertise and knowledge. I am an engineer who loves to solve problems and use the best tool for the problem.
 
 ## 🔭Currently in love with:
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
