@@ -3,6 +3,8 @@
 ## About me
 Hi👋 I am Kazim Raza, an AWS Certified Cloud Practitioner and a full-stack software engineer having 2 years of experience in software development and solid grip on Data Structures, Algorithms, and DBMS. I always want to learn new things and expand my domain of expertise and knowledge. I am an engineer who loves to solve problems and use the best tool for the problem.
 
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" alt="Coding" width="400"/>
+
 ## 🔭Currently in love with:
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
 <img src="https://img.shields.io/badge/Typescript-282C34?logo=typescript&logoColor=61DAFB" alt="ts" title="Typescript" height="25" />
