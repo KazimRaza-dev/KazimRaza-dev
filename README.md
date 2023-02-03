@@ -26,5 +26,4 @@ Hi👋 I am Kazim Raza, an AWS Certified Cloud Practitioner and a full-stack sof
 <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=1F51FF" alt="Bootstrap" title="Bootstrap" height="25" />
 
 ## 📫Reach me at:
-Email:  kazim.raza@gtintash.com 
-LinkedIn: linkedin.com/in/kazam-raza-a824771a6/ 
+LinkedIn: linkedin.com/in/kazam-raza-a824771a6/
